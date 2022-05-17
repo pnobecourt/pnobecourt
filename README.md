@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Présentation
-Je m'appelle Paul et je suis actuellement en formation Développeur Web / Web Mobile chez **O'Clock** (promo #Boson) dans le cadre d'une reconversion professionnelle pour devenir **développeur fullstack PHP**.
+Je m'appelle Paul et je suis actuellement en formation Développeur Web / Web Mobile chez **O'Clock** (promo #Boson) dans le cadre d'une reconversion professionnelle pour devenir **développeur fullstack PHP/WordPress**.
 
 ![](/images/image.jpg "Photo by Fotis Fotopoulos on Unsplash") https://unsplash.com/photos/DuHKoV44prg
 
@@ -25,21 +25,24 @@ Je m'appelle Paul et je suis actuellement en formation Développeur Web / Web Mo
 ### CMS
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+### Autres
+![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+
 ### Outils
+![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Environnement
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Statistiques Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnobecourt&theme=codeSTACKr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
