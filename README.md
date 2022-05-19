@@ -16,6 +16,7 @@ Je m'appelle Paul et je suis actuellement en formation Développeur Web / Web Mo
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Back-End
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -37,6 +38,7 @@ Je m'appelle Paul et je suis actuellement en formation Développeur Web / Web Mo
 ![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VIRTUALBOX](https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Environnement
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
