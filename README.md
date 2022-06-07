@@ -49,6 +49,10 @@ Je m'appelle Paul et je suis actuellement en formation Développeur Web / Web Mo
 ## Statistiques Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnobecourt&theme=codeSTACKr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnobecourt&theme=codeSTACKr&count_private=true&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true)]
+
+## Visites
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pnobecourt.pnobecourt)
 
 ## Présence en ligne
 [![CODEWARS](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/pnobecourt)
